@@ -1,0 +1,57 @@
+{
+    "top_n_overall": [
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/.gitignore",
+            "count": 18
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/post_process_status.lock",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/myapp.db",
+            "count": 2
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/backup_db.sh",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/db_connection.txt",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/db_shell.py",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/db_visualizer/package.json",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/db_visualizer/public/index.html",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/db_visualizer/server.js",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/db_visualizer/sqlite.env",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/init_db.py",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/restore_db.sh",
+            "count": 1
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/simple-todo-application-6993-7005/database/test_db.py",
+            "count": 1
+        }
+    ],
+    "top_n_last_10_min_accessed": []
+}
